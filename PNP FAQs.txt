@@ -1,0 +1,111 @@
+Who can make changes to the list of food items?
+
+Corporate food lists can only be modified by your headquarters team. If you know who your specific flex representative is, you can contact them directly to request your changes. If you don’t know who to contact internally, you may call Food Safety Solutions Prep-n-Print with flex Technical Support at 1-877-603-1187, option 1. They can provide you with information on who can help within your company.
+
+ 
+
+Why is it necessary to sign-in each morning to the flex app?
+
+Each morning the flex system automatically signs all locations out of the flex app so that a daily synchronization occurs between website and tablet. This ensures that changes made to food item lists, batches, etc., are available automatically to all locations.
+
+ 
+
+What is the location code and why are we being asked to enter it?
+
+The "location code" uniquely identifies your location in the flex system. It ensures that you receive the flex content meant for your location. The flex tablet will arrive at your location already set to your "location code", and normally it is not necessary to re-enter it to use the app.
+
+​
+
+However, you will need to re-enter the "location code" if:
+
+the flex app was uninstalled and re-installed
+
+the “reset flex application” option was used (not recommended)
+
+ 
+
+If you do not know your "location code", you may call Food Safety Solutions Prep-n-Print with flex Technical Support at 1-877-603-1187, option 1. They can provide you with your "location code".
+
+ 
+
+What does it mean when the “print” button is light blue?
+
+A light blue “print” button indicates that a default printer is no longer configured in the flex app. This results when
+
+the flex app has been uninstalled and reinstalled.
+
+the “reset flex application” option was used (not recommended).
+
+the printer was deleted using the "delete" button on the “add/edit printer” page.
+
+a replacement flex tablet has been received and needs to be paired to your current printer.
+
+
+If this condition is related to one of the first three issues, simply tap on “Settings” from the flex app Home Screen; then tap “Printer Settings” to assign a default printer (Prep-n-Print flex Printer Setup). Otherwise, refer to Prep-n-Print flex Replacement Tablet video for pairing your new tablet to your existing printer.
+
+ 
+
+What is the prompt preservation feature?
+
+Often customers set “employee initials” as a required field on their printed labels, “prompting” them to make an entry before they can print. If it’s common for the same employee to print labels frequently, the prompt preservation setting allows you to specify how long to retain those initials for re-use in order to reduce how often the same employee must re-enter their initials.
+
+​
+
+To locate the "prompt preservation" setting, go to the flex app Home screen, tap “settings” and then tap “Prompt Preservation”. You can set a value up to 99 seconds to retain the initials. Simply back off the page using the "prev" button to retain the entry.
+ 
+
+If the same employee prints another label:
+
+within the prompt preservation period specified, they will not need to re-enter their initials.
+
+after the prompt preservation period has expired, they will need to re-enter their initials.
+
+ 
+
+If another employee prints a label:
+
+within the prompt preservation period specified, they will need to erase the previous initials from the "employee initials field" and enter their own initials.
+
+After the prompt preservation period has expired, they will need to enter their own initials.
+
+ 
+
+Prompt preservation also works for batches.
+
+ 
+
+What is the reprint feature?
+
+The "reprint" feature allows you to print an exact duplicate of a previously printed label so that all original prep information is retained. This feature is useful when you need to re-pan prepared foods.
+
+​
+
+Food items will remain in Reprint History until the “Use By” date is reached or up to 30 days, whichever is shorter. For example,
+
+​
+
+if a food item has no shelf life, it will not display in history
+
+if a food item has a shelf life of three days, it will remain in the history for three days before being deleted.
+
+if a food item has a shelf life of 25 days, it will remain in history for 25 days before being deleted.
+
+if a food item has a shelf life of 45 days, it will remain in history up to 30 days before being deleted.
+
+ 
+
+What happens if the printer and/or tablet become inoperative?
+
+Warranty terms require that you contact Food Safety Solutions Prep-n-Print with flex Technical Support at 1-877-603-1187, option 1 to validate the warranty condition. If a replacement printer, tablet, or both are required, Technical Support will arrange for replacement equipment to be sent to you. The broken or defective printer must be returned to Ecolab within 30 days for warranty validation to avoid charges.
+
+ 
+
+How are flex app updates pushed to the tablet?
+
+Flex tablets use a mobile device management solution that allows us to automatically push app updates directly to your tablet(s). This normally requires no action on your part. Depending on when the update is pushed to your tablet, you may or may not see “configuration” screens which indicate progress toward completion of the update.
+
+ 
+
+Where can I find a list of recent enhancements to the flex app?
+
+Locations using app version 1.1.5 or higher can view a list of recent enhancements by tapping on the “Settings” option on the flex app home screen, then selecting “About”. A list of “What’s New” will display for the last few updates.
